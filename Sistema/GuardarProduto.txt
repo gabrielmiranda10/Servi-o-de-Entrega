@@ -1,0 +1,28 @@
+Nome Prod:de
+Proprietario do Produtonull
+descricaoded	
+Residenciade
+Valor do produtocomboBoxChanged
+
+Nome Prod:de
+Proprietario do Produtonull
+descricaode	de
+Residenciade
+Valor do produtocomboBoxChanged
+
+Nome Prod:eed
+Proprietario do Produtoeded
+descricaoededed
+
+Residenciaedede
+
+Nome Prod:arroz
+Proprietario do Produtodelvis
+descricaomoave
+Residenciaribeirinha
+
+Nome Prod:feijo
+Proprietario do Produtodelvis
+descricaotinto
+Residenciaribeirinha
+

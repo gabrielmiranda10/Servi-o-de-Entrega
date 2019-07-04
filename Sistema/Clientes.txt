@@ -1,0 +1,12 @@
+Nome:de
+Aplido:de
+Telefone:de
+BI:de
+E_mail:de
+
+Nome:delvis
+Aplido:gomes
+Telefone:234343
+BI:23454
+E_mail:dede@gmail.com
+
